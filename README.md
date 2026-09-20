@@ -43,13 +43,19 @@ CivicSense AI is an AI-powered platform that:
 ## 🚀 Getting Started
 
 ### Backend
-```bash
-cd backend
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-uvicorn main:app --reload
-
 → API docs: http://127.0.0.1:8000/docs
 
+### Frontend 
+ Web:- http://localhost:3000
 
+## Team Hacksphere 
+## 👥 Team
+
+| # | Name | GitHub | Role |
+|---|------|--------|------|
+| 1 | Pratik Kulkarni | [@Dev-Pratik-s](https://github.com/Dev-Pratik-s) | Team Lead / Backend |
+| 2 | Kaushal Pandit | [@panditkaushal2007-netizen](https://github.com/panditkaushal2007-netizen) | Backend Developer |
+| 3 | Chisla Jenish | [@Jenish2905](https://github.com/Jenish2905) | Frontend Developer |
+| 4 | Rutik Patel | [@Rutikptl](https://github.com/Rutikptl) | ML / AI Developer |
+| 5 | Tanshiq Patil | [@DIAMOND](https://github.com/DIAMOND) | UI/UX Designer |
+| 6 | Garud Prachi | [@garudprachi878-png](https://github.com/garudprachi878-png) | Testing & Documentation |
